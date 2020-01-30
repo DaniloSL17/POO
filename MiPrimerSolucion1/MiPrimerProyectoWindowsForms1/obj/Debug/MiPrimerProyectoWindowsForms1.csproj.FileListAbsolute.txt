@@ -1,0 +1,9 @@
+C:\Users\DDSL2\source\repos\MiPrimerSolucion1\MiPrimerProyectoWindowsForms1\bin\Debug\MiPrimerProyectoWindowsForms1.exe.config
+C:\Users\DDSL2\source\repos\MiPrimerSolucion1\MiPrimerProyectoWindowsForms1\bin\Debug\MiPrimerProyectoWindowsForms1.exe
+C:\Users\DDSL2\source\repos\MiPrimerSolucion1\MiPrimerProyectoWindowsForms1\bin\Debug\MiPrimerProyectoWindowsForms1.pdb
+C:\Users\DDSL2\source\repos\MiPrimerSolucion1\MiPrimerProyectoWindowsForms1\obj\Debug\MiPrimerProyectoWindowsForms1.csprojAssemblyReference.cache
+C:\Users\DDSL2\source\repos\MiPrimerSolucion1\MiPrimerProyectoWindowsForms1\obj\Debug\MiPrimerProyectoWindowsForms1.Form1.resources
+C:\Users\DDSL2\source\repos\MiPrimerSolucion1\MiPrimerProyectoWindowsForms1\obj\Debug\MiPrimerProyectoWindowsForms1.Properties.Resources.resources
+C:\Users\DDSL2\source\repos\MiPrimerSolucion1\MiPrimerProyectoWindowsForms1\obj\Debug\MiPrimerProyectoWindowsForms1.csproj.GenerateResource.cache
+C:\Users\DDSL2\source\repos\MiPrimerSolucion1\MiPrimerProyectoWindowsForms1\obj\Debug\MiPrimerProyectoWindowsForms1.exe
+C:\Users\DDSL2\source\repos\MiPrimerSolucion1\MiPrimerProyectoWindowsForms1\obj\Debug\MiPrimerProyectoWindowsForms1.pdb
