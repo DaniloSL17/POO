@@ -1,0 +1,19 @@
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoWindowsForms\bin\Debug\MiPrimerProyectoWindowsForms.exe.config
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoWindowsForms\bin\Debug\MiPrimerProyectoWindowsForms.exe
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoWindowsForms\bin\Debug\MiPrimerProyectoWindowsForms.pdb
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.Form1.resources
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.Properties.Resources.resources
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.csproj.GenerateResource.cache
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.exe
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.pdb
+C:\Users\DDSL2\Documents\Programacion Orientado a Objetos\MiPrimerSolución\MiPrimerProyectoWindowsForms\bin\Debug\MiPrimerProyectoWindowsForms.exe.config
+C:\Users\DDSL2\Documents\Programacion Orientado a Objetos\MiPrimerSolución\MiPrimerProyectoWindowsForms\bin\Debug\MiPrimerProyectoWindowsForms.exe
+C:\Users\DDSL2\Documents\Programacion Orientado a Objetos\MiPrimerSolución\MiPrimerProyectoWindowsForms\bin\Debug\MiPrimerProyectoWindowsForms.pdb
+C:\Users\DDSL2\Documents\Programacion Orientado a Objetos\MiPrimerSolución\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.csprojAssemblyReference.cache
+C:\Users\DDSL2\Documents\Programacion Orientado a Objetos\MiPrimerSolución\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.Form1.resources
+C:\Users\DDSL2\Documents\Programacion Orientado a Objetos\MiPrimerSolución\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.Properties.Resources.resources
+C:\Users\DDSL2\Documents\Programacion Orientado a Objetos\MiPrimerSolución\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.csproj.GenerateResource.cache
+C:\Users\DDSL2\Documents\Programacion Orientado a Objetos\MiPrimerSolución\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.exe
+C:\Users\DDSL2\Documents\Programacion Orientado a Objetos\MiPrimerSolución\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.pdb

@@ -1,0 +1,12 @@
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe.config
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.pdb
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.exe
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.pdb
+C:\Users\DDSL2\Documents\Programacion Orientado a Objetos\MiPrimerSolución\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe.config
+C:\Users\DDSL2\Documents\Programacion Orientado a Objetos\MiPrimerSolución\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe
+C:\Users\DDSL2\Documents\Programacion Orientado a Objetos\MiPrimerSolución\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.pdb
+C:\Users\DDSL2\Documents\Programacion Orientado a Objetos\MiPrimerSolución\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.exe
+C:\Users\DDSL2\Documents\Programacion Orientado a Objetos\MiPrimerSolución\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.pdb
