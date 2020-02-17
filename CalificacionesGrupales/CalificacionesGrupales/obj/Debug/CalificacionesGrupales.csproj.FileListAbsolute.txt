@@ -1,0 +1,9 @@
+C:\Users\DDSL2\source\repos\CalificacionesGrupales\CalificacionesGrupales\obj\Debug\CalificacionesGrupales.csprojAssemblyReference.cache
+C:\Users\DDSL2\source\repos\CalificacionesGrupales\CalificacionesGrupales\obj\Debug\CalificacionesGrupales.Calificaciones.resources
+C:\Users\DDSL2\source\repos\CalificacionesGrupales\CalificacionesGrupales\obj\Debug\CalificacionesGrupales.Properties.Resources.resources
+C:\Users\DDSL2\source\repos\CalificacionesGrupales\CalificacionesGrupales\obj\Debug\CalificacionesGrupales.csproj.GenerateResource.cache
+C:\Users\DDSL2\source\repos\CalificacionesGrupales\CalificacionesGrupales\bin\Debug\CalificacionesGrupales.exe.config
+C:\Users\DDSL2\source\repos\CalificacionesGrupales\CalificacionesGrupales\bin\Debug\CalificacionesGrupales.exe
+C:\Users\DDSL2\source\repos\CalificacionesGrupales\CalificacionesGrupales\bin\Debug\CalificacionesGrupales.pdb
+C:\Users\DDSL2\source\repos\CalificacionesGrupales\CalificacionesGrupales\obj\Debug\CalificacionesGrupales.exe
+C:\Users\DDSL2\source\repos\CalificacionesGrupales\CalificacionesGrupales\obj\Debug\CalificacionesGrupales.pdb
